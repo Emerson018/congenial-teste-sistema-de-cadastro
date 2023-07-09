@@ -15,3 +15,7 @@ exemplo de como fica
 - Para modificar através do terminal, abre a pasta do projeto e escreve 'cmd' no diretório da pasta,
 - git checkout -b (nome da branch) = cria uma branch
 - git switch main = volta pra main
+- git add (nome do arquivo.extensao) = seleciona o arquivo modificado
+- git commit = Salva o arquivo modificado
+- git push origin (nome da branch) = pra branch que será enviado a modificação
+ 
