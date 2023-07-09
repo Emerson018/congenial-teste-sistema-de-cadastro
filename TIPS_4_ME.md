@@ -18,4 +18,5 @@ exemplo de como fica
 - git add (nome do arquivo.extensao) = seleciona o arquivo modificado
 - git commit = Salva o arquivo modificado
 - git push origin (nome da branch) = pra branch que será enviado a modificação
+- git merge = une a merge modificada com a main. lembrando que tem q estar na main para fazer isso.
  
