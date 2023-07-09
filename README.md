@@ -6,5 +6,7 @@ I<h1> Sistema de Cadastro de Jojos</h1>
 
 ```
 MARKDOWN METI A MUDANCA
+
+SE clicar 3x no botão de '.' (ponto) ele abre um VSCODE online
 ```
   
